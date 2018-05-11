@@ -1,0 +1,31 @@
+
+body{
+    background-image: url(wlpr.png);
+        background-repeat: no-repeat;
+        margin: 10px;
+        text-align: center;
+        color: grey;
+}
+header>nav
+{
+text-align: center;
+align-items: center;
+justify-content: center;
+}
+
+form{
+	float: right;
+	width: 500px;
+	height: 500px
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(19, 16, 16, 0.5);
+}
+
+  footer{
+    background-color: #9e9e9e33;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;}

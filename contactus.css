@@ -1,0 +1,93 @@
+.navbar-dark .navbar-brand {
+    color: #312c2c;}
+    
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(78, 69, 69, 0.5);
+}
+.show>.nav-link {
+    color:black;
+}
+body
+{
+  background-image: url(wlpr.png);
+}
+label
+{
+ color: #9e9e9ee3; 
+}
+.column 
+{
+  float: left;
+  padding: 10px;
+  height: 500px; 
+}
+
+.left
+{
+  width: 30%;
+}
+
+.right 
+{
+  width: 50%;
+  text-align: center;
+}
+
+.row:after 
+{
+  content: "";
+  display: table;
+  clear: both;
+}
+button
+{
+  color: #9e9e9ee3;
+  border:5px solid #9e9e9ee3 ;
+  border-radius: 5px;
+  padding: 10px;
+  width: 151px;
+    height: 45px;
+    margin: auto;
+
+}
+h2{
+  color: grey
+}
+a{
+      color: grey;
+      font-size: 20px;
+      margin: 5px;
+}
+.form-control {
+  width: 300px;}
+
+#a
+{
+  border-radius: 150px;
+  padding:10px;
+  margin: 5px;
+  border-width: 2px;
+}
+input,textarea
+{
+  padding: 10px;
+  margin:10px;
+  border-radius: 5px;}
+
+  footer{
+    background-color: #9e9e9e33;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;}
+
+.row{
+      flex-wrap: wrap;
+    margin-right: -30px;
+    margin-left: 93px;
+}.btn-primary {
+    color: #fff;
+    background-color: grey;
+    border-color: grey;
+}
